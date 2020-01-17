@@ -6,3 +6,38 @@ header {
 
 /* ------------------------------------------- Navbar */
 
+/* ------------------------------------------- callout */
+
+.callout-container {
+    background-image: url("/assets/images/test.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+  height: 70vh;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: #fff;
+}
+
+.jumbotron-h1 {
+    font-size: 5em;
+
+
