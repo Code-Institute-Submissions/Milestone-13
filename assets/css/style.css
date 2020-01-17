@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Barlow:200,300,400,500,700|Roboto:400,500,700&display=swap');
 
+body {
+    font-family: "Barlow", sans-serif;
+}
+
 header {
     margin: 0;
 }
@@ -39,5 +43,5 @@ header {
 
 .jumbotron-h1 {
     font-size: 5em;
-
+}
 
