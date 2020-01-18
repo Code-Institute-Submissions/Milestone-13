@@ -37,8 +37,7 @@ header {
 .navbar-toggler:focus, .navbar-toggler:active {
     outline: solid 1px green;
     box-shadow: none;
-    border-radius: 7px;
-  }
+}
 
 
 
