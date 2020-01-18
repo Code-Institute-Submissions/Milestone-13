@@ -31,7 +31,7 @@ header {
 }
 
 .navbar-dark .nav-item.active .nav-link {
-    color: green;
+    color: white;
 }
 
 .navbar-toggler:focus, .navbar-toggler:active {
