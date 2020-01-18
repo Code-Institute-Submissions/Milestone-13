@@ -31,8 +31,15 @@ header {
 }
 
 .navbar-dark .nav-item.active .nav-link {
-    color: blue;
+    color: green;
 }
+
+.navbar-toggler:focus, .navbar-toggler:active {
+    outline: solid 1px green;
+    box-shadow: none;
+    border-radius: 7px;
+  }
+
 
 
 
