@@ -124,8 +124,7 @@ header {
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
-    text-decoration: none;
-}
+    }
 
 .cta--green:hover {
     background-color: #ffffff;
