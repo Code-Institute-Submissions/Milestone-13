@@ -156,9 +156,7 @@ header {
     -o-transition: all 0.3s ease-in-out;
 }
 
-.submit-row {
-    margin-bottom: 15px;
-}
+
 
 
 
@@ -249,5 +247,8 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 }
 
 .form-control {
+    margin-bottom: 15px;
+}
+.submit-row {
     margin-bottom: 15px;
 }
