@@ -65,6 +65,21 @@ header {
   height: 70vh;
 }
 
+.callout-container-subpage {
+    background-image: url("/assets/images/callout-hero.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+  height: 30vh;
+}
+
 .opaque-overlay {
     position: absolute;
     top: 0;
@@ -88,7 +103,9 @@ header {
 }
 
 .jumbotron-h1 {
-    font-size: 5em;
+    font-size: 3em;
+    text-transform: uppercase;
+    margin: 0;
 }
 
 /* ------------------------------------------- about section */
