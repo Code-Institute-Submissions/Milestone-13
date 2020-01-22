@@ -267,7 +267,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
     margin-bottom:10vh;
     font-weight: 500;
     text-transform: uppercase;
-    z-index: 100;
+    z-index: 1;
 }
 
 .app-awards-bg-img {
@@ -315,6 +315,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 
 .programme-col {
     padding: 30px;
+    margin-bottom: 25px;
 }
 
 
