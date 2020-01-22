@@ -8,7 +8,7 @@ body {
 }
 
 body p {
-    color: white;
+    color: #ffffff;
 }
 
 header {
@@ -22,11 +22,11 @@ header {
 }
 
 .navbar-dark .nav-item .nav-link {
-    color: rgb(253, 253, 253);
+    color: #ffffff;
 }
 
 .navbar-dark .nav-item:hover .nav-link {
-    color: rgb(253, 253, 253);
+    color: #ffffff;
     background-color: #007270;
     border-radius: 7px;
         transition: all 0.2s ease-in-out;
@@ -267,6 +267,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
     margin-bottom:10vh;
     font-weight: 500;
     text-transform: uppercase;
+    z-index: 100;
 }
 
 .app-awards-bg-img {
@@ -300,6 +301,16 @@ Not sure I like this - leaving here to play about with margins / padding / styli
     justify-content: center;
 
     position: relative;
+}
+
+.opaque-overlay-prog {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 7px;
 }
 
 .programme-col {
