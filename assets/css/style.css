@@ -251,3 +251,69 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 .submit-row {
     margin-bottom: 15px;
 }
+
+/*------------------------------------------- programmes page */
+
+.programmes-row {
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.programme-h5-heading {
+    text-align: center;
+    color: #ffffff;
+    margin-top:10vh;
+    margin-bottom:10vh;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.app-awards-bg-img {
+   background-image: url(/assets/images/test.jpg);
+}
+
+.eng-under-bg-img {
+   background-image: url(/assets/images/apprentice.png);
+}
+
+.stem-days-bg-img {
+   background-image: url(/assets/images/callout-hero.png);
+}
+
+.app-progression-bg-img {
+   background-image: url(/assets/images/logostrap.png);
+}
+
+.programme-img {
+   border-radius: 7px;
+   margin-left: 7px;
+   margin-right: 7px;
+   margin-bottom: 15px;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.programme-col {
+    padding: 30px;
+}
+
+
+
+
+
+/*--------------- media queries */
+
+@media only screen and (max-width: 600px) {
+  .programme-col {
+    padding: 0;
+  }
+}
