@@ -241,7 +241,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 }
 
 .contact-form {
-    width: 60vh;
+    width: 60%;
     margin: 0 auto;
 }
 
@@ -327,5 +327,10 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 @media only screen and (max-width: 600px) {
   .programme-col {
     padding: 0;
-  }
+    }
+
+  .contact-form {
+    width: 90%;
+    margin: 0 auto;
+    }
 }
