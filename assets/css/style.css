@@ -184,6 +184,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
     height: 5px;
     border: 0;
     background-color: #007270;
+    margin-bottom: 30px;
 }
 
 /* should the hr wide only be visible on smaller screens? unsure about the look on large screens */
