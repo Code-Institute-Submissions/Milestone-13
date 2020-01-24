@@ -256,7 +256,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 /*------------------------------------------- programmes page */
 
 .programmes-row {
-    margin-top: 100px;
+    margin-top: 0px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -272,19 +272,19 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 }
 
 .app-awards-bg-img {
-   background-image: url(/assets/images/test.jpg);
+   background-image: url(/assets/images/programme-3.png);
 }
 
 .eng-under-bg-img {
-   background-image: url(/assets/images/apprentice.png);
+   background-image: url(/assets/images/programme-2.png);
 }
 
 .stem-days-bg-img {
-   background-image: url(/assets/images/callout-hero.png);
+   background-image: url(/assets/images/programme-1.png);
 }
 
 .app-progression-bg-img {
-   background-image: url(/assets/images/logostrap.png);
+   background-image: url(/assets/images/programme-4.png);
 }
 
 .programme-img {
@@ -315,7 +315,10 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 }
 
 .programme-col {
-    padding: 30px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right:30px;
     margin-bottom: 25px;
 }
 
