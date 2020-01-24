@@ -189,7 +189,11 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 
 /* should the hr wide only be visible on smaller screens? unsure about the look on large screens */
 
-
+.header-h3 {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 
 /* --------------------------------------------------- footer */
@@ -235,11 +239,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 
 /* ------------------------------------------- contact form */
 
-.contact-h3 {
-    color: white;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
+
 
 .contact-form {
     width: 60%;
