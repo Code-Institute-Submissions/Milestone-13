@@ -3,6 +3,7 @@
 body {
     font-family: "Barlow", sans-serif;
     background: rgb(0,51,50);
+    background: -o-radial-gradient(circle, rgba(0,114,112,1) 0%, rgba(0,51,50,1) 55%);
     background: radial-gradient(circle, rgba(0,114,112,1) 0%, rgba(0,51,50,1) 55%);
     min-height: 100vh;
 }
@@ -18,6 +19,7 @@ header {
 /* ------------------------------------------- Navbar */
 
 .navbar {
+    background: -o-radial-gradient(circle, rgba(0,114,112,1) 0%, rgba(0,51,50,1) 55%);
     background: radial-gradient(circle, rgba(0,114,112,1) 0%, rgba(0,51,50,1) 55%);
 }
 
@@ -41,7 +43,8 @@ header {
 
 .navbar-toggler:focus, .navbar-toggler:active {
     outline: none;
-    box-shadow: none;
+    -webkit-box-shadow: none;
+            box-shadow: none;
     background-color: #007270;
 }
 
@@ -52,14 +55,19 @@ header {
 
 .callout-container {
     background-image: url("/assets/images/callout-hero.png");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     
+    display: -webkit-box;
+    
+    display: -ms-flexbox;
+    
     display: flex;
-    align-items: center;
-    justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 
     position: relative;
   height: 70vh;
@@ -67,14 +75,19 @@ header {
 
 .callout-container-subpage {
     background-image: url("/assets/images/callout-hero.png");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     
+    display: -webkit-box;
+    
+    display: -ms-flexbox;
+    
     display: flex;
-    align-items: center;
-    justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 
     position: relative;
   height: 25vh;
@@ -285,14 +298,19 @@ header {
    margin-left: 7px;
    margin-right: 7px;
    margin-bottom: 15px;
-   -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+   background-size: cover;
+    
+    display: -webkit-box;
+    
+    display: -ms-flexbox;
     
     display: flex;
-    align-items: center;
-    justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 
     position: relative;
 }
@@ -314,10 +332,6 @@ header {
     padding-right:30px;
     margin-bottom: 25px;
 }
-
-
-
-
 
 /*--------------- media queries */
 
