@@ -99,7 +99,7 @@ header {
 
 .jumbotron {
     background-color: transparent;
-    color: #fff;
+    color: #ffffff;
     margin-bottom: 0;
 }
 
@@ -123,7 +123,7 @@ header {
     font-family: "Roboto";
     text-transform: uppercase;
     text-align: center;
-    color: white;
+    color: #ffffff;
     padding-top: 15px;
 }
 
@@ -137,7 +137,7 @@ header {
 
 .cta--green {
     background-color: #007270;
-    color: white;
+    color: #ffffff;
     font-weight: 500;
         transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
@@ -190,7 +190,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 /* should the hr wide only be visible on smaller screens? unsure about the look on large screens */
 
 .header-h3 {
-    color: white;
+    color: #ffffff;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -205,7 +205,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 }
 
 #footer-details h5 {
-    color: white;
+    color: #ffffff;
     text-align: center;
     text-transform: uppercase;
     font-weight: 700;
@@ -221,7 +221,7 @@ Not sure I like this - leaving here to play about with margins / padding / styli
 }
 
 .social-links a {
-    color: white;
+    color: #ffffff;
 }
 
 .social-links a:hover {
