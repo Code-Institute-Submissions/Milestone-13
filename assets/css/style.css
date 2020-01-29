@@ -54,7 +54,7 @@ header {
 /* ------------------------------------------- callout */
 
 .callout-container {
-    background-image: url("/assets/images/callout-hero.png");
+    background-image: url("../assets/images/callout-hero.png");
     background-size: cover;
     
     display: -webkit-box;
@@ -74,7 +74,7 @@ header {
 }
 
 .callout-container-subpage {
-    background-image: url("/assets/images/callout-hero.png");
+    background-image: url("./assets/images/callout-hero.png");
     background-size: cover;
     
     display: -webkit-box;
