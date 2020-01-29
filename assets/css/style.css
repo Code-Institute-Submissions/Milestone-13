@@ -335,17 +335,15 @@ header {
 
 /*--------------- news */
 
-.col-8-test {
-    background-color: blue;
-    padding: 0;
+.news-text-col {
+    padding: 0 30px;
 }
 
-.col-4-test {
-    background-color: green;
+.news-image-col {
     padding: 15px;
 }
 
-.col-4-image {
+.news-image-col {
     background-size: cover;
 }
 
@@ -353,10 +351,13 @@ header {
     padding-bottom: 15px;
     border-radius: 7px;
     background-size: cover;
-
 } 
 
-
+.news-card {
+    margin-bottom: 15px;
+    width: 100%;
+    background-color: transparent;
+}
 
 /*--------------- media queries */
 
