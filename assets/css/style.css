@@ -74,7 +74,7 @@ header {
 }
 
 .callout-container-subpage {
-    background-image: url("./assets/images/callout-hero.png");
+    background-image: url("https://github.com/pengols/Milestone-1/blob/master/assets/images/callout-hero.png");
     background-size: cover;
     
     display: -webkit-box;
@@ -278,19 +278,19 @@ header {
 }
 
 .app-awards-bg-img {
-   background-image: url(../assets/images/programme-3.png);
+   background-image: url(https://github.com/pengols/Milestone-1/blob/master/assets/images/programme-3.png);
 }
 
 .eng-under-bg-img {
-   background-image: url(./assets/images/programme-2.png);
+   background-image: url(https://github.com/pengols/Milestone-1/blob/master/assets/images/programme-2.png);
 }
 
 .stem-days-bg-img {
-   background-image: url(/assets/images/programme-1.png);
+   background-image: url(https://github.com/pengols/Milestone-1/blob/master/assets/images/programme-1.png);
 }
 
 .app-progression-bg-img {
-   background-image: url(./assets/images/programme-4.png);
+   background-image: url(https://github.com/pengols/Milestone-1/blob/master/assets/images/programme-4.png);
 }
 
 .programme-img {
