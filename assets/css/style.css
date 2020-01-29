@@ -278,11 +278,11 @@ header {
 }
 
 .app-awards-bg-img {
-   background-image: url(/assets/images/programme-3.png);
+   background-image: url(./assets/images/programme-3.png);
 }
 
 .eng-under-bg-img {
-   background-image: url(/assets/images/programme-2.png);
+   background-image: url(./assets/images/programme-2.png);
 }
 
 .stem-days-bg-img {
@@ -290,7 +290,7 @@ header {
 }
 
 .app-progression-bg-img {
-   background-image: url(/assets/images/programme-4.png);
+   background-image: url(./assets/images/programme-4.png);
 }
 
 .programme-img {
