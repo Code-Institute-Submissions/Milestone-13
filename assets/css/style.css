@@ -184,7 +184,15 @@ header {
     margin-bottom: 30px;
 }
 
+.hr-small-news {
+    width: 25%;
+    height: 5px;
+    background-color: #007270;
+    margin-bottom: 15px;
+}
+
 .header-h3 {
+    font-family: "Roboto", sans-serif;
     color: #ffffff;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -332,32 +340,30 @@ header {
 /*-------------------------- news */
 
 .news-text-col {
-    padding: 0 30px;
-}
-
-.news-image-col {
-    padding: 15px;
+    padding: 0 15px 0 15px;
 }
 
 .news-image-col {
     background-size: cover;
-    padding-top: 0;
+    padding: 0 15px 15px 0;
 }
 
 .news-text-image {
-    padding-bottom: 15px;
     padding-top: 0;
     border-radius: 7px;
     background-size: cover;
-    max-width: 100%;
-    height:auto;
-    
+    position: center;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    max-height: 700px;
+    max-width: 450px;
 } 
 
 .news-card {
     margin-bottom: 15px;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.2);
     border: 2px solid #000000;
 }
 
