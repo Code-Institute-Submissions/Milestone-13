@@ -171,6 +171,28 @@ header {
     -o-transition: all 0.3s ease-in-out;
 }
 
+.cta--green-content {
+    margin: 15px 0 30px 0;
+    background-color: #007270;
+    color: #ffffff;
+    font-weight: 500;
+        transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    }
+
+.cta--green-content:hover {
+    margin: 15px 0 30px 0;
+    background-color: #ffffff;
+    color: #007270;
+    font-weight: 500;
+        transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+
 /* ---------------------------------------------------utilities */
 
 .hr-wide {
@@ -260,9 +282,6 @@ header {
 }
 
 .form-control {
-    margin-bottom: 15px;
-}
-.submit-row {
     margin-bottom: 15px;
 }
 
