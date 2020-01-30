@@ -168,10 +168,6 @@ header {
     -o-transition: all 0.3s ease-in-out;
 }
 
-
-
-
-
 /* ---------------------------------------------------utilities */
 
 .hr-wide {
@@ -333,7 +329,7 @@ header {
     margin-bottom: 25px;
 }
 
-/*--------------- news */
+/*-------------------------- news */
 
 .news-text-col {
     padding: 0 30px;
@@ -345,18 +341,28 @@ header {
 
 .news-image-col {
     background-size: cover;
+    padding-top: 0;
 }
 
 .news-text-image {
     padding-bottom: 15px;
+    padding-top: 0;
     border-radius: 7px;
     background-size: cover;
+    max-width: 100%;
+    height:auto;
+    
 } 
 
 .news-card {
     margin-bottom: 15px;
     width: 100%;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px solid #000000;
+}
+
+.news-card-title {
+    color: #ffffff;
 }
 
 /*--------------- media queries */
