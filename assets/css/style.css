@@ -393,6 +393,12 @@ header {
     color: #ffffff;
 }
 
+/*------------------events */
+
+.events-row {
+    margin-top: 15px;
+}
+
 /*--------------- media queries */
 
 @media only screen and (max-width: 600px) {
@@ -405,3 +411,10 @@ header {
     margin: 0 auto;
     }
 }
+
+/*@media only screen and (min-width: 992px) {
+  .btn-align-bottom {
+    margin-top: auto;
+    
+  }
+}*/
