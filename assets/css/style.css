@@ -395,9 +395,7 @@ header {
 
 /*------------------events */
 
-.events-row {
-    margin-top: 15px;
-}
+
 
 /*--------------- media queries */
 
@@ -412,9 +410,17 @@ header {
     }
 }
 
-/*@media only screen and (min-width: 992px) {
-  .btn-align-bottom {
-    margin-top: auto;
-    
-  }
-}*/
+/*--------------- media queries Events ---------- */
+
+@media only screen and (max-width: 575px) {
+  .news-card {
+    min-height: 82%
+    }
+}
+
+@media only screen and (min-width: 576px) {
+  .news-card {
+    min-height: 97%
+    }
+}
+
