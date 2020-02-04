@@ -8,6 +8,12 @@ The existing site was created a number of years ago and as such, is dated in its
 
 The current PPMA BEST website can be found [here](http://www.ppmabest.org.uk/).
  
+## Demo
+
+A live demo can be found [here](https://pengols.github.io/Milestone-1/)
+
+![Desktop Demo](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/website-mockup.PNG "Desktop Demo")
+
 ## UX
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
