@@ -121,7 +121,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from [PPMA BEST](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/)
 
 ### Acknowledgements
 
