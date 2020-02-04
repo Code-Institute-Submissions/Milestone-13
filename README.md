@@ -100,7 +100,7 @@ The website has been tested physically on the following devices / browsers:
 
 The website was tested using the following tools:
 - [W3C Markup Validation Service](https://validator.w3.org/)
-  - cleaned up stray </div> and stray </hr> tags that were unnecessary.
+  - cleaned up stray closing div and stray closing hr tags that were unnecessary.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Autoprefixer CSS online
   - no changes to CSS reported.
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
