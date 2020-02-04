@@ -96,6 +96,8 @@ The website has been tested physically on the following devices / browsers:
 - Samsung S8 / Google Chrome
 - Samsung S8 / Samsung Internet
 
+The website performs well on all browsers mentioned above and scales to smaller screens without issue.
+
 ### Testing tools
 
 The website was tested using the following tools:
@@ -108,19 +110,13 @@ The website was tested using the following tools:
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
   - used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300kb to improve site response.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+### Additional notes
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+- the contact form locatd in contact.html was tested with incorrect details in the name and email fields with the browser returning the correct error messages and not allowing the form to be submitted.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Bugs encountered
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- There is a strange bug in IE11 that moves the centered content in the jumbotron on all pages to the right.  This remains unaddressed at this point.
 
 ## Deployment
 
