@@ -85,9 +85,28 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Browsers
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+The website has been tested physically on the following devices / browsers:
+- Desktop Windows 10 / Mozilla Firefox
+- Desktop Windows 10 / Microsoft Edge
+- Desktop Windows 10 / Google Chrome
+- Macbook Pro / Safari
+- Motorola G4 / Google Chrome
+- Samsung S8 / Google Chrome
+- Samsung S8 / Samsung Internet
+
+### Testing tools
+
+The website was tested using the following tools:
+- [W3C Markup Validation Service](https://validator.w3.org/)
+ - cleaned up stray </div> and stray </hr> tags that were unnecessary.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Autoprefixer CSS online
+ - no changes to CSS reported.
+- [Autoprefixer CSS online](https://autoprefixer.github.io/)
+ - used to apply vendor specific prefixes to CSS for multiple browser support
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+ - used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300kb to improve site response.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
