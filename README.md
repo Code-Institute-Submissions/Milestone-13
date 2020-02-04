@@ -60,8 +60,6 @@ A contact form to initiate a dialogue with the charity.
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
 ### Languages
 
 - HTML
@@ -112,7 +110,7 @@ The website was tested using the following tools:
 
 ### Additional notes
 
-- the contact form locatd in contact.html was tested with incorrect details in the name and email fields with the browser returning the correct error messages and not allowing the form to be submitted.
+- the contact form located in contact.html was tested with incorrect details in the name and email fields with browsers returning the correct error messages and not allowing the form to be submitted.
 
 ### Bugs encountered
 
@@ -122,10 +120,13 @@ The website was tested using the following tools:
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+This website is deployed using GitHub pages and is available [here](https://pengols.github.io/Milestone-1/).
+
+To deploy the website, the following steps were taken:
+ - Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
+ - Click settings tab
+ - Scroll down to GitHub pages section
+ - Select source as "master branch"
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
