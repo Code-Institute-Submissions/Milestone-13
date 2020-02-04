@@ -22,11 +22,11 @@ The website aims to provide this often complex information in as clear and conci
 
 ### User Stories
 
-..* As a potential or existing employer of apprentices, I want to see the grants that are available to my organisation to assist with their development and the costs to me.
+1. As a potential or existing employer of apprentices, I want to see the grants that are available to my organisation to assist with their development and the costs to me.
 
-..* As an apprentice, I want to see the grants that I am able to apply for for equipment to assist my apprenticeship.
+2. As an apprentice, I want to see the grants that I am able to apply for for equipment to assist my apprenticeship.
 
-..* As an active member of the Processing, Packaging and Machinery Association I would like to be able to contact PPMA BEST to see how I can get involved.
+3. As an active member of the Processing, Packaging and Machinery Association I would like to be able to contact PPMA BEST to see how I can get involved.
 
 ### Wireframes
 
