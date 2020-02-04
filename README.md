@@ -15,8 +15,14 @@ A live demo can be found [here](https://pengols.github.io/Milestone-1/)
 ![Desktop Demo](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/website-mockup.PNG "Desktop Demo")
 
 ## UX
- 
+
+This website is designed for organisations that are members of, or are at least related to the Processing, Packaging or Machinery industries in the United Kingdom who employ or are interested in employing apprentices.  It is also aimed at apprentices that work for the aforementioned organisations who are interested in investigating the available grants and subsidies available to assist in their education.
+
+The website aims to provide this often complex information in as clear and concise manner as possible, provide an easy method to contact PPMA BEST for further information and to enforce the Charity's branding by using complimentary colours.
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+### User Stories
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a user type, I want to perform an action, so that I can achieve a goal.
