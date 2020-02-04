@@ -34,18 +34,29 @@ Wireframes were created using [balsamiq](https://balsamiq.com/), and the mockups
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+### Home
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Strong branded page with a synopsis of the charity and it's goals.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Events
+
+A responsive table of all upcoming events that PPMA BEST is undertaking in the near future.
+
+### News
+
+A list of the most recent updates from PPMA BEST and links to further information.
+
+### Programmes
+
+Information on the four different subsidies and grants provided by the charity and links to further information.
+
+### Contact
+
+A contact form to initiate a dialogue with the charity.
 
 ### Features Left to Implement
-- Another feature idea
+- a gallery from past events.
+- make the charity's social media availble in feeds
 
 ## Technologies Used
 
