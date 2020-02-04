@@ -62,9 +62,26 @@ A contact form to initiate a dialogue with the charity.
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+### Languages
 
+- HTML
+- CSS
+
+### Libraries
+
+- [Bootstrap](https://getbootstrap.com/)
+- [FontAwesome](https://fontawesome.com/)
+  - Provides icons for footer
+- [Google fonts](https://fonts.google.com/)
+  - Provides Barlow & Roboto fonts
+
+
+### Other tools
+
+- [CSS Gradient](https://cssgradient.io/)
+  - used to create gradient of background
+- [Adobe Color](https://color.adobe.com/create)
+  - used to find campatible colors with brand logo #007270
 
 ## Testing
 
