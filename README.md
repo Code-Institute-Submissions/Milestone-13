@@ -1,8 +1,12 @@
-# Your Project's Name
+# PPMA BEST
 
-One or two paragraphs providing an overview of your project.
+Stream One Project: User-Centric Frontend Development - Code Institute
 
-Essentially, this part is your sales pitch.
+As a current employee of the PPMA Group of Associations a need has been highlighted to update the exisiting website for the charitable branch of the organisation - PPMA BEST.
+
+The existing site was created a number of years ago and as such, is dated in its appearance and is not responsive for smaller screens.
+
+The current PPMA BEST website can be found [here](http://www.ppmabest.org.uk/).
  
 ## UX
  
