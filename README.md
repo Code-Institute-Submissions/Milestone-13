@@ -100,13 +100,13 @@ The website has been tested physically on the following devices / browsers:
 
 The website was tested using the following tools:
 - [W3C Markup Validation Service](https://validator.w3.org/)
- - cleaned up stray </div> and stray </hr> tags that were unnecessary.
+  - cleaned up stray </div> and stray </hr> tags that were unnecessary.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Autoprefixer CSS online
- - no changes to CSS reported.
+  - no changes to CSS reported.
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
- - used to apply vendor specific prefixes to CSS for multiple browser support
+  - used to apply vendor specific prefixes to CSS for multiple browser support
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
- - used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300kb to improve site response.
+  - used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300kb to improve site response.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
