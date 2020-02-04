@@ -81,7 +81,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [CSS Gradient](https://cssgradient.io/)
   - used to create gradient of background
 - [Adobe Color](https://color.adobe.com/create)
-  - used to find campatible colors with brand logo #007270
+  - used to find compatible colors with brand logo #007270
 
 ## Testing
 
