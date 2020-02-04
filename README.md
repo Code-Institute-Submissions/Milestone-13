@@ -30,7 +30,7 @@ The website aims to provide this often complex information in as clear and conci
 
 ### Wireframes
 
-Wireframes were created using [balsamiq](https://balsamiq.com/), and the mockups can be found [here](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/website-mockup.PNG).
+Wireframes were created using [balsamiq](https://balsamiq.com/), and the mockups can be found [here](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/Milestone-1-wireframe.pdf).
 
 ## Features
 
