@@ -133,7 +133,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for index.html, events.html, programmes.html & news.html was copied from the existing PPMA BEST [website](http://www.ppmabest.org.uk/) with permission.
 
 ### Media
 - The photos used in this site were obtained from [PPMA BEST](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/)
