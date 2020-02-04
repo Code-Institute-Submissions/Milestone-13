@@ -10,7 +10,7 @@ The current PPMA BEST website can be found [here](http://www.ppmabest.org.uk/).
  
 ## Demo
 
-A live demo can be found [here](https://pengols.github.io/Milestone-1/)
+A live demo can be found [here](https://pengols.github.io/Milestone-1/).
 
 ![Desktop Demo](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/website-mockup.PNG "Desktop Demo")
 
@@ -20,14 +20,17 @@ This website is designed for organisations that are members of, or are at least 
 
 The website aims to provide this often complex information in as clear and concise manner as possible, provide an easy method to contact PPMA BEST for further information and to enforce the Charity's branding by using complimentary colours.
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### User Stories
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+*As a potential or existing employer of apprentices, I want to see the grants that are available to my organisation to assist with their development and the costs to me.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+*As an apprentice, I want to see the grants that I am able to apply for for equipment to assist my apprenticeship.
+
+*As an active member of the Processing, Packaging and Machinery Association I would like to be able to contact PPMA BEST to see how I can get involved.
+
+### Wireframes
+
+Wireframes were created using [balsamiq](https://balsamiq.com/), and the mockups can be found [here](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/website-mockup.PNG).
 
 ## Features
 
