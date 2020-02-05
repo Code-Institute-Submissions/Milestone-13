@@ -12,7 +12,7 @@ The current PPMA BEST website can be found [here](http://www.ppmabest.org.uk/).
 
 A live demo can be found [here](https://pengols.github.io/Milestone-1/).
 
-![Desktop Demo](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/website-mockup.PNG "Desktop Demo")
+![Desktop Demo](https://raw.githubusercontent.com/pengols/Milestone-1/master/mockups/websitemockup.PNG "Desktop Demo")
 
 ## UX
 
