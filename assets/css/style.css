@@ -55,6 +55,7 @@ header {
 /* ------------------------------------------- callout */
 
 .callout-container {
+    margin-top: 57px;
     background-image: url("../../assets/images/callouthero.png");
     background-size: cover;
     display: -webkit-box;
