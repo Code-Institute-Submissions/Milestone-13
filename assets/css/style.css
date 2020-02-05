@@ -52,21 +52,14 @@ header {
     background-color: #007270;
 }
 
-
-
-
 /* ------------------------------------------- callout */
 
 .callout-container {
     background-image: url("../../assets/images/callouthero.png");
     background-size: cover;
-    
     display: -webkit-box;
-    
     display: -ms-flexbox;
-    
     display: -webkit-flex;
-    
     display: flex;
     -webkit-box-align: center;
         -ms-flex-align: center;
@@ -76,7 +69,6 @@ header {
         -ms-flex-pack: center;
             -webkit-justify-content: center;
             justify-content: center;
-
     position: relative;
     height: 70vh;
 }
@@ -84,11 +76,8 @@ header {
 .callout-container-subpage {
     background-image: url("../../assets/images/callouthero.png");
     background-size: cover;
-    
     display: -webkit-box;
-    
     display: -ms-flexbox;
-    
     display: flex;
     -webkit-box-align: center;
         -ms-flex-align: center;
@@ -96,7 +85,6 @@ header {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-
     position: relative;
   height: 25vh;
 }
@@ -137,7 +125,6 @@ header {
     padding-bottom: 15px;
     border-radius: 7px;
     background-size: cover;
-
 } 
 
 .about-h2 {
@@ -164,7 +151,7 @@ header {
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
-    }
+}
 
 .cta--green:hover {
     background-color: #ffffff;
@@ -185,7 +172,7 @@ header {
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
-    }
+}
 
 .cta--green-content:hover {
     margin: 15px 0 30px 0;
@@ -227,7 +214,6 @@ header {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 
 /* --------------------------------------------------- footer */
 
@@ -331,11 +317,8 @@ header {
    margin-right: 7px;
    margin-bottom: 15px;
    background-size: cover;
-    
     display: -webkit-box;
-    
     display: -ms-flexbox;
-    
     display: flex;
     -webkit-box-align: center;
         -ms-flex-align: center;
@@ -343,7 +326,6 @@ header {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-
     position: relative;
 }
 
@@ -424,7 +406,7 @@ header {
   body p {
     color: #ffffff;
     font-size: 1.1rem;
-}
+    }
 
   .programme-col {
     padding: 0;  
