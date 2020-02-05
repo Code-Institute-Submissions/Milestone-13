@@ -58,7 +58,7 @@ header {
 /* ------------------------------------------- callout */
 
 .callout-container {
-    background-image: url("../../assets/images/callout-hero.png");
+    background-image: url("../../assets/images/callouthero.png");
     background-size: cover;
     
     display: -webkit-box;
@@ -82,7 +82,7 @@ header {
 }
 
 .callout-container-subpage {
-    background-image: url("../../assets/images/callout-hero.png");
+    background-image: url("../../assets/images/callouthero.png");
     background-size: cover;
     
     display: -webkit-box;
@@ -310,19 +310,19 @@ header {
 }
 
 .app-awards-bg-img {
-   background-image: url("../../assets/images/programme-3.png");
+   background-image: url("../../assets/images/programme3.png");
 }
 
 .eng-under-bg-img {
-   background-image: url("../../assets/images/programme-2.png");
+   background-image: url("../../assets/images/programme2.png");
 }
 
 .stem-days-bg-img {
-   background-image: url("../../assets/images/programme-1.png");
+   background-image: url("../../assets/images/programme1.png");
 }
 
 .app-progression-bg-img {
-   background-image: url("../../assets/images/programme-4.png");
+   background-image: url("../../assets/images/programme4.png");
 }
 
 .programme-img {
