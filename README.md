@@ -7,7 +7,7 @@ As a current employee of the PPMA Group of Associations a need has been highligh
 The existing site was created a number of years ago and as such, is dated in its appearance and is not responsive for smaller screens.
 
 The current PPMA BEST website can be found [here](http://www.ppmabest.org.uk/).
- 
+
 ## Demo
 
 A live demo can be found [here](https://pengols.github.io/Milestone-1/).
@@ -94,7 +94,7 @@ The website has been tested physically on the following devices / browsers:
 
 - Desktop Windows 10 / Mozilla Firefox
 - Desktop Windows 10 / Microsoft Edge
-- Desktop Windows 10 / Google Chrome 
+- Desktop Windows 10 / Google Chrome
 - Macbook Pro / Safari
 - Motorola G4 / Google Chrome
 - Samsung S8 / Google Chrome
@@ -113,7 +113,7 @@ The website was tested using the following tools:
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
   - Used to apply vendor specific prefixes to CSS for multiple browser support.
 - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
-  - Used to test the responsiveness of the site across multiple screen sizes and test changes in page before committing. 
+  - Used to test the responsiveness of the site across multiple screen sizes and test changes in page before committing.
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
   - Used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300kb to improve site response.
 - [Responsinator](http://www.responsinator.com/)
