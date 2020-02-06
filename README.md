@@ -127,7 +127,7 @@ The website was tested using the following tools:
 
 ### GitHub pages
 
-This website is deployed using GitHub pages and is available [here](https://pengols.github.io/Milestone-1/).
+This website is deployed using GitHub pages and is available [here](https://pengols.github.io/Milestone-1/)
 
 To deploy the website, the following steps were taken:
 
@@ -159,7 +159,7 @@ To clone the repository to create a local copy on your computer:
 
 ### Media
 
-- The photos used in this site were obtained from [PPMA BEST](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/)
+- The photos used in this site were obtained from [PPMA BEST](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/).
 
 ### Acknowledgements
 
