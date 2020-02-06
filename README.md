@@ -18,7 +18,7 @@ A live demo can be found [here](https://pengols.github.io/Milestone-1/).
 
 This website is designed for organisations that are members of, or are at least related to the Processing, Packaging or Machinery industries in the United Kingdom who employ or are interested in employing apprentices.  It is also aimed at apprentices that work for the aforementioned organisations who are interested in investigating the available grants and subsidies available to assist in their education.
 
-The website aims to provide this often complex information in as clear and concise manner as possible, provide an easy method to contact PPMA BEST for further information and to enforce the Charity's branding by using complimentary colours.
+The website aims to provide this often complex information in as clear and concise a manner as possible, provide an easy method to contact PPMA BEST for further information and to enforce the Charity's branding by using complimentary colours.
 
 ### User Stories
 
@@ -60,9 +60,9 @@ The footer contains contact information and links to social media.
 
 ### Features Left to Implement
 
-- a gallery from past events
-- make the charity's social media available in feeds
-- a modal to confirm successful completion of the contact form
+- A gallery from past events
+- Make the charity's social media available in feeds
+- A modal to confirm successful completion of the contact form
 
 ## Technologies Used
 
@@ -82,9 +82,9 @@ The footer contains contact information and links to social media.
 ### Other tools
 
 - [CSS Gradient](https://cssgradient.io/)
-  - used to create gradient of background
+  - Used to create gradient of background
 - [Adobe Color](https://color.adobe.com/create)
-  - used to find compatible colors with brand logo #007270
+  - Used to find compatible colors with brand logo #007270
 
 ## Testing
 
@@ -163,8 +163,8 @@ To clone the repository to create a local copy on your computer:
 
 ### Media
 
-- The photos used in this site were obtained from [PPMA BEST](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/).
+- The photos used in this site were obtained from [PPMA BEST website](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/).
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from Danny Reed at PPMA BEST, SamFix G in the #peer-code-review channel in the CodeInstitute Slack and my Wife for providing QA and tea.
