@@ -54,6 +54,10 @@ Information on the four different subsidies and grants provided by the charity a
 
 A contact form to initiate a dialogue with the charity.
 
+### Footer
+
+The footer contains contact information and links to social media.
+
 ### Features Left to Implement
 - a gallery from past events.
 - make the charity's social media availble in feeds
