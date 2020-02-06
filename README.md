@@ -24,7 +24,7 @@ The website aims to provide this often complex information in as clear and conci
 
 1. As a potential or existing employer of apprentices, I want to see the grants that are available to my organisation to assist with their development and the costs to me.
 
-2. As an apprentice, I want to see the grants that I am able to apply for for equipment to assist my apprenticeship.
+2. As an apprentice, I want to see the grants that I am able to apply for, for equipment to assist my apprenticeship.
 
 3. As an active member of the Processing, Packaging and Machinery Association I would like to be able to contact PPMA BEST to see how I can get involved.
 
@@ -60,8 +60,9 @@ The footer contains contact information and links to social media.
 
 ### Features Left to Implement
 
-- a gallery from past events.
-- make the charity's social media availble in feeds
+- a gallery from past events
+- make the charity's social media available in feeds
+- a modal to confirm successful completion of the contact form
 
 ## Technologies Used
 
@@ -106,17 +107,17 @@ The website performs well on all browsers mentioned above and scales to smaller 
 The website was tested using the following tools:
 
 - [W3C Markup Validation Service](https://validator.w3.org/)
-  - cleaned up stray closing div and stray closing hr tags that were unnecessary.
-- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Autoprefixer CSS online
+  - cleaned up stray closing `</div>` and stray closing `</hr>` tags that were unnecessary.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
   - no changes to CSS reported.
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
   - used to apply vendor specific prefixes to CSS for multiple browser support
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-  - used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300kb to improve site response.
+  - used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300KB to improve site response.
 
 ### Additional notes
 
-- the contact form located in contact.html was tested with incorrect details in the name and email fields with browsers returning the correct error messages and not allowing the form to be submitted.
+- The contact form located in contact.html was tested with incorrect details in the name and email fields with browsers returning the correct error messages and not allowing the form to be submitted.
 
 ### Bugs encountered
 
@@ -139,12 +140,12 @@ To deploy the website, the following steps were taken:
 
 To clone the repository to create a local copy on your computer:
 
-- Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
-- Click the clone or download button under the repository name.
+- Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project
+- Click the clone or download button under the repository name
 - To copy using HTTPS click the copy icon next to the URL
-- Open Git Bash in your IDE.
-- Change the current working directory to the location where you want the cloned directory to be made.
-    Type git clone, and then paste the URL you copied in Step 3.
+- Open Git Bash in your IDE
+- Change the current working directory to the location where you want the cloned directory to be made
+    Type `git clone`, and then paste the URL you copied in Step 3
 
     `https://github.com/pengols/Milestone-1.git`
 
@@ -154,7 +155,7 @@ To clone the repository to create a local copy on your computer:
 
 ### Content
 
-- The text for index.html, events.html, programmes.html & news.html was copied from the existing PPMA BEST [website](http://www.ppmabest.org.uk/) with permission.
+- The text for index.html, events.html, programmes.html & news.html was copied from the existing [PPMA BEST website](http://www.ppmabest.org.uk/) with permission.
 
 ### Media
 
