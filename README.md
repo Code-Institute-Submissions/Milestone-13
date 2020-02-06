@@ -100,7 +100,7 @@ The website has been tested physically on the following devices / browsers:
 - Samsung S8 / Google Chrome
 - Samsung S8 / Samsung Internet
 
-The website performs well on all browsers mentioned above..
+The website performs without issue on all browsers mentioned above.
 
 ### Testing tools
 
