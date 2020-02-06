@@ -167,4 +167,4 @@ To clone the repository to create a local copy on your computer:
 
 ### Acknowledgements
 
-- I received inspiration for this project from Danny Reed at PPMA BEST, SamFix G in the #peer-code-review channel in the CodeInstitute Slack and my Wife for providing QA and tea.
+- I received inspiration for this project from Danny Reed at PPMA BEST and assistance from SamFix G in the #peer-code-review channel in the CodeInstitute Slack, my mentor AntonioRodriguez_mentor and my Wife for providing QA and tea.
