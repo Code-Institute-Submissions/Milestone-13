@@ -137,8 +137,14 @@ To deploy the website, the following steps were taken:
 To clone the repository to create a local copy on your computer:
  - Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
  - Click the clone or download button under the repository name.
- - 
+ - To copy using HTTPS click the copy icon next to the URL
+ - Open Git Bash in your IDE.
+ - Change the current working directory to the location where you want the cloned directory to be made.
+    Type git clone, and then paste the URL you copied in Step 3.
 
+https://github.com/pengols/Milestone-1.git
+
+ - Press Enter. Your local clone will be created.
 
 ## Credits
 
