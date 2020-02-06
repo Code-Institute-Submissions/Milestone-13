@@ -95,7 +95,6 @@ The website has been tested physically on the following devices / browsers:
 - Desktop Windows 10 / Mozilla Firefox
 - Desktop Windows 10 / Microsoft Edge
 - Desktop Windows 10 / Google Chrome 
-- Desktop Windows 10 / Google Chrome Dev tools including responsive mode to check 
 - Macbook Pro / Safari
 - Motorola G4 / Google Chrome
 - Samsung S8 / Google Chrome
