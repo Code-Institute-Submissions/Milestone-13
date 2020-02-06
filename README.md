@@ -134,7 +134,10 @@ To deploy the website, the following steps were taken:
 
 ### GitHub clone
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+To clone the repository to create a local copy on your computer:
+ - Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
+ - Click the clone or download button under the repository name.
+ - 
 
 
 ## Credits
