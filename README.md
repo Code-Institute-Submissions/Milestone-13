@@ -115,7 +115,7 @@ The website was tested using the following tools:
 - [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
   - Used to test the responsiveness of the site across multiple screen sizes and test changes in page before committing. 
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-  - Used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300KB to improve site response.
+  - Used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300kb to improve site response.
 - [Responsinator](http://www.responsinator.com/)
   - Used to check the responsiveness of the site in various devices and screen sizes.
 
