@@ -94,26 +94,31 @@ The website has been tested physically on the following devices / browsers:
 
 - Desktop Windows 10 / Mozilla Firefox
 - Desktop Windows 10 / Microsoft Edge
-- Desktop Windows 10 / Google Chrome
+- Desktop Windows 10 / Google Chrome 
+- Desktop Windows 10 / Google Chrome Dev tools including responsive mode to check 
 - Macbook Pro / Safari
 - Motorola G4 / Google Chrome
 - Samsung S8 / Google Chrome
 - Samsung S8 / Samsung Internet
 
-The website performs well on all browsers mentioned above and scales to smaller screens without issue.
+The website performs well on all browsers mentioned above..
 
 ### Testing tools
 
 The website was tested using the following tools:
 
 - [W3C Markup Validation Service](https://validator.w3.org/)
-  - cleaned up stray closing `</div>` and stray closing `</hr>` tags that were unnecessary.
+  - Cleaned up stray closing `</div>` and stray closing `</hr>` tags that were unnecessary.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-  - no changes to CSS reported.
+  - No changes to CSS reported.
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
-  - used to apply vendor specific prefixes to CSS for multiple browser support
+  - Used to apply vendor specific prefixes to CSS for multiple browser support.
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools)
+  - Used to test the responsiveness of the site across multiple screen sizes and test changes in page before committing. 
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-  - used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300KB to improve site response.
+  - Used to check performance of site in desktop and mobile format.  Reduced image sizes to under 300KB to improve site response.
+- [Responsinator](http://www.responsinator.com/)
+  - Used to check the responsiveness of the site in various devices and screen sizes.
 
 ### Additional notes
 
