@@ -152,7 +152,7 @@ To clone the repository to create a local copy on your computer:
 - Change the current working directory to the location where you want the cloned directory to be made
     Type `git clone`, and then paste the URL you copied in Step 3
 
-    `https://github.com/pengols/Milestone-1.git`
+    `git clone https://github.com/pengols/Milestone-1.git`
 
 - Press Enter. Your local clone will be created.
 
