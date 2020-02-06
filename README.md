@@ -59,6 +59,7 @@ A contact form to initiate a dialogue with the charity.
 The footer contains contact information and links to social media.
 
 ### Features Left to Implement
+
 - a gallery from past events.
 - make the charity's social media availble in feeds
 
@@ -77,7 +78,6 @@ The footer contains contact information and links to social media.
 - [Google fonts](https://fonts.google.com/)
   - Provides Barlow & Roboto fonts
 
-
 ### Other tools
 
 - [CSS Gradient](https://cssgradient.io/)
@@ -90,6 +90,7 @@ The footer contains contact information and links to social media.
 ### Browsers
 
 The website has been tested physically on the following devices / browsers:
+
 - Desktop Windows 10 / Mozilla Firefox
 - Desktop Windows 10 / Microsoft Edge
 - Desktop Windows 10 / Google Chrome
@@ -103,6 +104,7 @@ The website performs well on all browsers mentioned above and scales to smaller 
 ### Testing tools
 
 The website was tested using the following tools:
+
 - [W3C Markup Validation Service](https://validator.w3.org/)
   - cleaned up stray closing div and stray closing hr tags that were unnecessary.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) Autoprefixer CSS online
@@ -127,31 +129,35 @@ The website was tested using the following tools:
 This website is deployed using GitHub pages and is available [here](https://pengols.github.io/Milestone-1/).
 
 To deploy the website, the following steps were taken:
- - Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
- - Click settings tab
- - Scroll down to GitHub pages section
- - Select source as "master branch"
+
+- Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
+- Click settings tab
+- Scroll down to GitHub pages section
+- Select source as "master branch"
 
 ### GitHub clone
 
 To clone the repository to create a local copy on your computer:
- - Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
- - Click the clone or download button under the repository name.
- - To copy using HTTPS click the copy icon next to the URL
- - Open Git Bash in your IDE.
- - Change the current working directory to the location where you want the cloned directory to be made.
+
+- Navigate to the [GitHub Repository](https://github.com/pengols/Milestone-1) for this project.
+- Click the clone or download button under the repository name.
+- To copy using HTTPS click the copy icon next to the URL
+- Open Git Bash in your IDE.
+- Change the current working directory to the location where you want the cloned directory to be made.
     Type git clone, and then paste the URL you copied in Step 3.
 
     `https://github.com/pengols/Milestone-1.git`
 
- - Press Enter. Your local clone will be created.
+- Press Enter. Your local clone will be created.
 
 ## Credits
 
 ### Content
+
 - The text for index.html, events.html, programmes.html & news.html was copied from the existing PPMA BEST [website](http://www.ppmabest.org.uk/) with permission.
 
 ### Media
+
 - The photos used in this site were obtained from [PPMA BEST](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/)
 
 ### Acknowledgements
