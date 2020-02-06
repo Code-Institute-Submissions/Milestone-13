@@ -122,7 +122,7 @@ The website was tested using the following tools:
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+### GitHub pages
 
 This website is deployed using GitHub pages and is available [here](https://pengols.github.io/Milestone-1/).
 
@@ -131,6 +131,8 @@ To deploy the website, the following steps were taken:
  - Click settings tab
  - Scroll down to GitHub pages section
  - Select source as "master branch"
+
+### GitHub clone
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
