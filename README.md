@@ -86,6 +86,8 @@ The footer contains contact information and links to social media.
   - Used to create gradient of background
 - [Adobe Color](https://color.adobe.com/create)
   - Used to find compatible colors with brand logo #007270
+- [TinyPNG](https://tinypng.com/)
+  - Used to compress images to below 300kb 
 
 ## Testing
 
