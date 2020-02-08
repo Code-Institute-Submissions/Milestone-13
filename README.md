@@ -74,6 +74,7 @@ The footer contains contact information and links to social media.
 ### Libraries
 
 - [Bootstrap](https://getbootstrap.com/)
+  - Open source toolkit for building mobile-first, responsive websites
 - [FontAwesome](https://fontawesome.com/)
   - Provides icons for footer
 - [Google fonts](https://fonts.google.com/)
