@@ -132,7 +132,7 @@ The website was tested using the following tools:
 
 ### Bugs encountered
 
-- There is a strange bug in IE11 that moves the centered content in the jumbotron on all pages to the right.  This remains unaddressed at this point.
+- There is a bug in IE11 that moves the centered content in the jumbotron on all pages to the right.  This remains unaddressed at this point.
 
 ## Deployment
 
@@ -156,7 +156,7 @@ To clone the repository to create a local copy on your computer:
 - To copy using HTTPS click the copy icon next to the URL
 - Open Git Bash in your IDE
 - Change the current working directory to the location where you want the cloned directory to be made
-    Type `git clone`, and then paste the URL you copied in Step 3
+- Type `git clone`, and then paste the URL you copied in Step 3
 
     `git clone https://github.com/pengols/Milestone-1.git`
 
@@ -170,7 +170,7 @@ To clone the repository to create a local copy on your computer:
 
 ### Media
 
-- The photos used in this site were obtained from [PPMA BEST website](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/).
+- The photos used in this site were obtained from the [PPMA BEST website](http://www.ppmabest.org.uk/) with permission, and [Shutterstock](https://www.shutterstock.com/).
 
 ### Acknowledgements
 
