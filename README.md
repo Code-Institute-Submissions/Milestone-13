@@ -87,7 +87,11 @@ The footer contains contact information and links to social media.
 - [Adobe Color](https://color.adobe.com/create)
   - Used to find compatible colors with brand logo #007270
 - [TinyPNG](https://tinypng.com/)
-  - Used to compress images to below 300kb 
+  - Used to compress images to below 300kb
+- [GitHub](https://github.com/)
+  - Used for version control and hosting the project repository
+- [markdownlint](https://dlaa.me/markdownlint/)
+  - A Node.js style checker and lint tool for Markdown/CommonMark files
 
 ## Testing
 
